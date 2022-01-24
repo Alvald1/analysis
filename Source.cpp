@@ -118,5 +118,7 @@ int main() {
             numbers.pop_back();
         }
     }
+    cout <<"Всего детей = " << sum << endl;
+    cout << (tmp.empty() ? "YES\n" : "NO\n");
 	return 0;
 }
